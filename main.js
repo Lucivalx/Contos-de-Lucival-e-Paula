@@ -416,13 +416,13 @@ const storyLines = [
 
 "Você se tornou alguém que eu admiro profundamente.",
 
-"Nossas noites mal dormidas um dia será um conto que contarei ao nossos filhos",
+"Nossas noites mal dormidas um dia será um conto que contarei aos nossos filhos",
 
 "E eles sempre vão enxergar nos meus olhos o brilho que não foge do meu olhar sempre que te vejo",
 
 "Ter você inteiramente e completamente pra mim é um privilégio divino",
 
-"E te digo.. eu nunca experiementei algo assim, esse carinho, esse amor que transborda e me domina",
+"E te digo.. eu nunca experimentei algo assim, esse carinho, esse amor que transborda e me domina",
 
 "Isso tudo está sendo exclusivo da nossa relação, eu nunca vivenciei isso",
 
